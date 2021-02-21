@@ -65,7 +65,7 @@
 
 ### 수학2-2(카탈란 수, 오일러 피 함수, 유클리드 알고리즘, 나머지 연산, 순열)
 
-:herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/contents/210222.md)
+:herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/210222.md)
 
  - [#issue1] 다양한 방법으로의 순열/조합 구현
 
