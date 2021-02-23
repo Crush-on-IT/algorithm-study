@@ -24,7 +24,7 @@
 ### 정렬
 
 
-:herb: 정리 내용
+:herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/sort.md)
 	
 
  - [#issue1] 
