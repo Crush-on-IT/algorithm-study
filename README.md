@@ -1,3 +1,4 @@
+
 #  algorithm-study
 
 알고리즘을 공부하기 위한 스터디입니다.
@@ -24,7 +25,7 @@
 ### 정렬
 
 
-:herb: 정리 내용
+:herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/sort.md)
 	
 
  - [#issue1] 
