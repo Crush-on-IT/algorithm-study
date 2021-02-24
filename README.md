@@ -28,8 +28,9 @@
 :herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/sort.md)
 	
 
- - [#issue1] 
-
+ - [#issue1] Comparator, Comparable
+ - [#issue2] String 크기 비교 : str1.compareTo(str2)
+ - Arrays.sort() vs. Collections.sort()
  
 <br>
 <br>
