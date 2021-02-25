@@ -40,7 +40,7 @@
 :herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/math1-1.md)
 	
 
- - [#issue1] 
+ - [#issue1] 최대공약수 : 유클리드 호제법
 
 <br>
 <br>
