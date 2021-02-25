@@ -37,7 +37,7 @@
 
 ### 수학1-1(나머지, 최대공약수, 최소공배수, GCD의 합, 진법)
 
-:herb: 정리 내용
+:herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/math1-1.md)
 	
 
  - [#issue1] 
