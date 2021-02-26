@@ -1,4 +1,5 @@
 
+
 #  algorithm-study
 
 알고리즘을 공부하기 위한 스터디입니다.
@@ -77,7 +78,7 @@
 
 ### 자료구조1(스택, 큐, 덱, 문자열)
 
-:herb: 정리 내용
+:herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/DS1.md)
 	
 
  - [#issue1] 
@@ -87,7 +88,7 @@
 
 ### 자료구조2(스택, Disjoint-set, 비트마스크, 힙, 이진 탐색 트리)
 
-:herb: 정리 내용
+:herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/DS2.md)
 	
 
  - [#issue1] 
@@ -97,7 +98,8 @@
 
 ### 트리와 이진 탐색
 
-:herb: 정리 내용
+
+:herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/tree.md)
 	
 
  - [#issue1] 
@@ -107,7 +109,8 @@
 
 ### 그래프1(그래프, DFS, BFS, 이분그래프, 사이클, 플러드 필)
 
-:herb: 정리 내용
+
+:herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/graph1.md)
 	
 
  - [#issue1] 
@@ -117,7 +120,8 @@
 
 ### 그래프2(DAG(Directed Acyclic Graph), 위상 정렬, 최소 비용 신장 트리(Minimum Spanning Tree), Prim, Kruskal, 최단 경로(Shortest Path), Bellman-Ford)
 
-:herb: 정리 내용
+
+:herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/graph2.md)
 	
 
  - [#issue1] 
@@ -125,9 +129,9 @@
 <br>
 <br>
 
-### 그래프2(다익스트라(Dijkstra), 플로이드(Floyd-Warshall), SPFA(Shortest Path Faster))
+### 그래프3(다익스트라(Dijkstra), 플로이드(Floyd-Warshall), SPFA(Shortest Path Faster))
 
-:herb: 정리 내용
+:herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/graph3.md)
 	
 
  - [#issue1] 
