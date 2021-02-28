@@ -5,7 +5,7 @@
 
 | 링크 | 수민 | 새음  |
 |--|--|--|
-| [https://www.acmicpc.net/problem/2751](https://www.acmicpc.net/problem/2751) |✅||
+| [https://www.acmicpc.net/problem/2751](https://www.acmicpc.net/problem/2751) |✅|✅|
 | [https://www.acmicpc.net/problem/11650](https://www.acmicpc.net/problem/11650) |✅||
 | [https://www.acmicpc.net/problem/11651](https://www.acmicpc.net/problem/11651) |✅||
 | [https://www.acmicpc.net/problem/11656](https://www.acmicpc.net/problem/11656)|✅||
