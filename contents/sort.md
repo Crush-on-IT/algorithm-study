@@ -11,9 +11,9 @@
 | [https://www.acmicpc.net/problem/11656](https://www.acmicpc.net/problem/11656)|✅|✅|
 | [https://www.acmicpc.net/problem/10814](https://www.acmicpc.net/problem/10814) |✅|✅|
 | [https://www.acmicpc.net/problem/10825](https://www.acmicpc.net/problem/10825) |✅|✅|
-| [https://www.acmicpc.net/problem/10989](https://www.acmicpc.net/problem/10989) |✅||
-| [https://www.acmicpc.net/problem/11652](https://www.acmicpc.net/problem/11652) |✅||
-| [https://www.acmicpc.net/problem/11004](https://www.acmicpc.net/problem/11004) |✅||
+| [https://www.acmicpc.net/problem/10989](https://www.acmicpc.net/problem/10989) |✅|✅|
+| [https://www.acmicpc.net/problem/11652](https://www.acmicpc.net/problem/11652) |✅|✅|
+| [https://www.acmicpc.net/problem/11004](https://www.acmicpc.net/problem/11004) |✅|✅|
 
    
 
