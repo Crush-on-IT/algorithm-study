@@ -7,7 +7,8 @@
 |--|--|--|
 | [https://www.acmicpc.net/problem/6549](https://www.acmicpc.net/problem/6549)|||
 | [https://www.acmicpc.net/problem/3015](https://www.acmicpc.net/problem/3015)|||
-| [https://www.acmicpc.net/problem/1717](https://www.acmicpc.net/problem/1717)|||
+| [https://www.acmicpc.net/problem/1717](https://www.acmicpc.net/problem/1717)|✅||
+| [https://www.acmicpc.net/problem/2606](https://www.acmicpc.net/problem/2606)|✅||
 | [https://www.acmicpc.net/problem/4195](https://www.acmicpc.net/problem/4195)|||
 | [https://www.acmicpc.net/problem/11723](https://www.acmicpc.net/problem/11723)|||
 | [https://www.acmicpc.net/problem/11279](https://www.acmicpc.net/problem/11279)|||
@@ -21,7 +22,7 @@
 
 ## [issue]에 대한 정리
 
-##### issue1 : 
+##### issue1 : Disjoint-set
 
 
 
