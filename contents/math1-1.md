@@ -5,8 +5,8 @@
 
 | 링크 | 수민 | 새음  |
 |--|--|--|
-| [https://www.acmicpc.net/problem/10430](https://www.acmicpc.net/problem/10430) |✅||
-| [https://www.acmicpc.net/problem/2609](https://www.acmicpc.net/problem/2609) |✅||
+| [https://www.acmicpc.net/problem/10430](https://www.acmicpc.net/problem/10430) |✅|✅|
+| [https://www.acmicpc.net/problem/2609](https://www.acmicpc.net/problem/2609) |✅|✅|
 | [https://www.acmicpc.net/problem/1934](https://www.acmicpc.net/problem/1934) |✅||
 | [https://www.acmicpc.net/problem/1850](https://www.acmicpc.net/problem/1850) |✅||
 | [https://www.acmicpc.net/problem/9613](https://www.acmicpc.net/problem/9613) |||
