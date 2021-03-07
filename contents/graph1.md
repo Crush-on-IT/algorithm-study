@@ -18,6 +18,8 @@
 | [https://www.acmicpc.net/problem/2146](https://www.acmicpc.net/problem/2146)|||
 
 ### 백준 그래프 문제
+| 링크 | 수민 | 새음  |
+|--|--|--|
 | [https://www.acmicpc.net/problem/2468](https://www.acmicpc.net/problem/2468)|✅||
 | [https://www.acmicpc.net/problem/1012](https://www.acmicpc.net/problem/1012)|✅||
 | [https://www.acmicpc.net/problem/1987](https://www.acmicpc.net/problem/1987)|✅||
