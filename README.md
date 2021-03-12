@@ -76,7 +76,7 @@
 <br>
 <br>
 
-### 자료구조1(스택, 큐, 덱, 문자열)
+### 자료구조1(스택, 큐, 덱, 문자열, 해시)
 
 :herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/DS1.md)
 	
@@ -95,6 +95,7 @@
 
 <br>
 <br>
+
 
 ### 트리와 이진 탐색
 
