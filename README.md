@@ -119,20 +119,24 @@
 <br>
 <br>
 
-### 그래프2(DAG(Directed Acyclic Graph), 위상 정렬, 최소 비용 신장 트리(Minimum Spanning Tree), Prim, Kruskal, 최단 경로(Shortest Path), Bellman-Ford)
-
+### 그래프2(최단경로 알고리즘 : 다익스트라(Dijkstra), 벨만포드(Bellman-Ford), 플로이드(Floyd-Warshall), SPFA(Shortest Path Faster))
 
 :herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/graph2.md)
 	
 
  - [#issue1] 
-
+ - 
 <br>
 <br>
 
-### 그래프3(다익스트라(Dijkstra), 플로이드(Floyd-Warshall), SPFA(Shortest Path Faster))
+
+### 그래프3(DAG(Directed Acyclic Graph), 위상 정렬, 최소 비용 신장 트리(Minimum Spanning Tree), Prim, Kruskal)
+
 
 :herb: [정리 내용](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/graph3.md)
 	
 
  - [#issue1] 
+
+<br>
+<br>
