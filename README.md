@@ -38,7 +38,7 @@
 > 
 >  [saeumi](https://github.com/saeumi)
 > 
-> [석렬]
+> [screwlim](https://github.com/screwlim)
 
 
 <br>
@@ -60,7 +60,7 @@
 1일 1스터디 참여 (필수) 
 > 커밋으로 체크
 > 
-> 벌금 : 치킨:chicken:한마리
+> 벌금 : 치킨:chicken:한마리씩
 
 매주
 - 유형별 개념정리
