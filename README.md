@@ -47,22 +47,27 @@
 <br>
 
 
-### :star: 스터디 일정
+### :star: 알고리즘 유형
 |순번|Tag|태그|문제집|상태|
 |--|--|--|--|--|
-|01|Data Structure|자료구조||:white_large_square:|
+|01|Data Structure|자료구조|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/master/data_structure/README.md)|:large_blue_circle:|
 |02|Graph Traversal|그래프 탐색||:white_large_square:|
-|03|Shortest Path|최단거리||:white_large_square:|
-|04|Disjoint Set|분리 집합||:white_large_square:|
-|05|Minimum Spanning Tree(MST)|최소 스패닝 트리||:white_large_square:|
-|06|Binary Search|이분탐색||:white_large_square:|
-|07|Backtracking|백트래킹||:white_large_square:|
-|08|Dynamic Programming|동적계획법||:white_large_square:|
-|09|Divide and conquer|분할정복||:white_large_square:|
-|10|Dynamic Programming|위상정렬||:white_large_square:|
-|11|Implementation|구현||:white_large_square:|
+|03|Binary Search|이분탐색||:white_large_square:|
+|04|Backtracking|백트래킹||:white_large_square:|
+|05|Dynamic Programming|동적계획법||:white_large_square:|
+|06|Divide and conquer|분할정복||:white_large_square:|
+|07|Shortest Path|최단거리||:white_large_square:|
+|08|Disjoint Set|분리 집합||:white_large_square:|
+|09|Minimum Spanning Tree(MST)|최소 스패닝 트리||:white_large_square:|
+|10|Topological Sorting|위상정렬||:white_large_square:|
+|11|String|문자열||:white_large_square:|
+|12|Sort|정렬|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/master/sort/README.md)|:large_blue_circle:|
+|13|Greedy|그리디||:white_large_square:|
 
+<br>
+<br>
 
+---------------이 뒤는 나중에 정리하는걸로---------------
 
 
 # ISSUE
