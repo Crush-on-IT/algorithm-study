@@ -24,14 +24,18 @@
  ### :star: 개발환경 
 
 > **language** : Java
+> 
 > **IDE** : Eclipse
+> 
 > **Algorithm** Site : [Baekjoon Online Judge](https://www.acmicpc.net/)
 
 <br>
 
 ### :star: Contributors
 > [sumin416](https://github.com/sumin416)
+> 
 > [새음]
+> 
 > [석렬]
 
 
@@ -41,8 +45,12 @@
 > 폴더명 : src/유형명/[문제번호] 문제이름/계정
 > 
 > 파일명 : 백준_문제번호_문제이름
-	>ex) 백준_1131_구슬찾기.java
-	>ex) 백준_1131_구슬찾기.md
+> 
+>   ex) 백준_1131_구슬찾기.java
+>   
+>   ex) 백준_1131_구슬찾기.md
+>   
+>      문제별로 소스코드와 구현로직 설명
 
 <br>
 
