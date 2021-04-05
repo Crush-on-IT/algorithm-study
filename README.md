@@ -23,7 +23,7 @@
 
 <br>
 
- ### :star: 개발환경 
+ ### :snail:  개발환경 
 
 > **language** : Java, JavaScript
 > 
@@ -33,7 +33,7 @@
 
 <br>
 
-### :star: Contributors
+### :snail:  Contributors
 > [sumin416](https://github.com/sumin416)
 > 
 > [새음]
@@ -43,7 +43,7 @@
 
 <br>
 
-### :star: Repository 규칙
+### :snail:  Repository 규칙
 > 폴더명 : src/유형명/[문제번호] 문제이름/계정
 > 
 > 파일명 : 백준_문제번호_문제이름
@@ -56,14 +56,14 @@
 
 <br>
 
-### :star: 스터디 규칙
+### :snail:  스터디 규칙
 1일 1스터디 참여 (필수) - 커밋으로 체크
 - 유형별 개념정리
 - 유형별 최소 5개의 문제 풀기	
 
 <br>
 
-### :star: 알고리즘 유형
+### :snail:  알고리즘 유형
 |순번|Tag|태그|문제집|상태|
 |--|--|--|--|--|
 |01|Data Structure|자료구조|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/master/data_structure/README.md)|:large_blue_circle:|
