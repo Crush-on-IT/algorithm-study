@@ -2,29 +2,63 @@
 
 #  algorithm-study
 
-알고리즘을 공부하기 위한 스터디입니다.
+**알고리즘**을 공부하기 위한 스터디입니다.
 
 좋은 길라잡이를 발견해서 따라가며 발전해보고자 합니다.
 
+**개념 정리**
 [https://github.com/WeareSoft/algorithm-study](https://github.com/WeareSoft/algorithm-study)
+[https://github.com/tony9402/baekjoon](https://github.com/tony9402/baekjoon)
 
+**문제풀이**
 [https://github.com/yoon1fe/Algorithm_Study](https://github.com/yoon1fe/Algorithm_Study)
 
-[https://github.com/tony9402/baekjoon](https://github.com/tony9402/baekjoon)
+
 
 <br>
 
- ### 개발환경
+ ### :star: 개발환경 
+
+> **language** : Java
+> **IDE** : Eclipse
+> **Algorithm** Site : [Baekjoon Online Judge](https://www.acmicpc.net/)
+
+<br>
+
+### :star: Contributors
+> [sumin416](https://github.com/sumin416)
+> [새음]
+> [석렬]
 
 
- :star: language
- > Java
- > 
-:star: IDE
-> Eclipse
+<br>
+
+### :star: Repository 규칙
+> 폴더명 : src/유형명/[문제번호] 문제이름/계정
 > 
- :star: Algorithm Site  
->Baekjoon Online Judge:  [https://www.acmicpc.net/](https://www.acmicpc.net/)
+> 파일명 : 백준_문제번호_문제이름
+	>ex) 백준_1131_구슬찾기.java
+	>ex) 백준_1131_구슬찾기.md
+
+<br>
+
+
+### :star: 스터디 일정
+|순번|Tag|태그|문제집|상태|
+|--|--|--|--|--|
+|01|Data Structure|자료구조||:white_large_square:|
+|02|Graph Traversal|그래프 탐색||:white_large_square:|
+|03|Shortest Path|최단거리||:white_large_square:|
+|04|Disjoint Set|분리 집합||:white_large_square:|
+|05|Minimum Spanning Tree(MST)|최소 스패닝 트리||:white_large_square:|
+|06|Binary Search|이분탐색||:white_large_square:|
+|07|Backtracking|백트래킹||:white_large_square:|
+|08|Dynamic Programming|동적계획법||:white_large_square:|
+|09|Divide and conquer|분할정복||:white_large_square:|
+|10|Dynamic Programming|위상정렬||:white_large_square:|
+|11|Implementation|구현||:white_large_square:|
+
+
 
 
 # ISSUE
