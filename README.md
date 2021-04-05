@@ -36,7 +36,7 @@
 ### :snail:  Contributors
 > [sumin416](https://github.com/sumin416)
 > 
-> [새음]
+>  [saeumi](https://github.com/saeumi)
 > 
 > [석렬]
 
