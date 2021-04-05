@@ -30,7 +30,7 @@
 ## 추천문제1 - 스택, 큐, 덱
 |          순번          |        문제 이름         |         난이도          |        수민         |새음|석렬|
 | :-----: | :-----: | :-----: | :-----: |:-----: | :-----: |
-| 00 | <a href="http://boj.kr/1158" target="_blank">요세푸스 문제</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |✅|||
+| 00 | <a href="http://boj.kr/1158" target="_blank">요세푸스 문제</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |✅|✅||
 | 01 | <a href="http://boj.kr/10828" target="_blank">스택</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> ||||
 | 02 | <a href="http://boj.kr/9012" target="_blank">괄호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> ||||                      
 | 03 | <a href="http://boj.kr/18258" target="_blank">큐 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> ||||
