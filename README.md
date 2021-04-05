@@ -57,7 +57,10 @@
 <br>
 
 ### :snail:  스터디 규칙
-1일 1스터디 참여 (필수) - 커밋으로 체크
+1일 1스터디 참여 (필수) 
+> 커밋으로 체크
+> 
+> 벌금 : 치킨:chicken:한마리
 
 매주
 - 유형별 개념정리
@@ -80,7 +83,7 @@
 |09|Minimum Spanning Tree(MST)|최소 스패닝 트리||:white_large_square:|
 |10|Topological Sorting|위상정렬||:white_large_square:|
 |11|String|문자열||:white_large_square:|
-|12|Sort|정렬|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/master/sort/README.md)|:large_blue_circle:|
+|12|Sort|정렬|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/master/sort/README.md)|:white_large_square:|
 |13|Greedy|그리디||:white_large_square:|
 
 <br>
