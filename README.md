@@ -6,6 +6,8 @@
 
 좋은 길라잡이를 발견해서 따라가며 발전해보고자 합니다.
 
+<br>
+
 **개념 정리**
 
 [https://github.com/WeareSoft/algorithm-study](https://github.com/WeareSoft/algorithm-study)
@@ -23,9 +25,9 @@
 
  ### :star: 개발환경 
 
-> **language** : Java
+> **language** : Java, JavaScript
 > 
-> **IDE** : Eclipse
+> **IDE** : Eclipse, 
 > 
 > **Algorithm** Site : [Baekjoon Online Judge](https://www.acmicpc.net/)
 
