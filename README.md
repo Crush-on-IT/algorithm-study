@@ -25,9 +25,9 @@
 
  ### :snail:  개발환경 
 
-> **language** : Java, JavaScript
+> **language** : Java, Python
 > 
-> **IDE** : Eclipse, 
+> **IDE** : Eclipse, PyCharm CE
 > 
 > **Algorithm** Site : [Baekjoon Online Judge](https://www.acmicpc.net/)
 
