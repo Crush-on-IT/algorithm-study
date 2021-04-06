@@ -36,9 +36,9 @@
 ### :snail:  Contributors
 > [sumin416](https://github.com/sumin416)
 > 
->  [saeumi](https://github.com/saeumi)
+> [saeumi](https://github.com/saeumi)
 > 
-> [screwlim](https://github.com/screwlim)
+> [Screwlim](https://github.com/Screwlim)
 
 
 <br>
