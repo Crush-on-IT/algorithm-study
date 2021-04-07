@@ -35,10 +35,10 @@
 |  03  |     <a href="http://boj.kr/18258" target="_blank">큐 2</a>     | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |  ✅  | ✅  |  ✅  |
 |  04  |     <a href="http://boj.kr/2164" target="_blank">카드2</a>     | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |      |  ✅  |  ✅  |
 |  05  |      <a href="http://boj.kr/10866" target="_blank">덱</a>      | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |      | ✅   |  ✅  |
-|  06  |   <a href="http://boj.kr/1874" target="_blank">스택 수열</a>   | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |      |      |      |
-|  07  | <a href="http://boj.kr/1935" target="_blank">후위 표기식2</a>  | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |      |      |      |
+|  06  |   <a href="http://boj.kr/1874" target="_blank">스택 수열</a>   | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |      |  ✅ |      |
+|  07  | <a href="http://boj.kr/1935" target="_blank">후위 표기식2</a>  | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |      | ✅  |      |
 |  08  |   <a href="http://boj.kr/10799" target="_blank">쇠막대기</a>   | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |      |      |   ✅  |
-|  09  |   <a href="http://boj.kr/1966" target="_blank">프린터 큐</a>   | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |      |      |      |
+|  09  |   <a href="http://boj.kr/1966" target="_blank">프린터 큐</a>   | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |      | ✅  |      |
 |  10  | <a href="http://boj.kr/2346" target="_blank">풍선 터뜨리기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |  ✅    |      |      |
 |  12  |   <a href="http://boj.kr/2800" target="_blank">괄호 제거</a>   | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |      |      |      |
 |  13  |      <a href="http://boj.kr/2493" target="_blank">탑</a>       | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |      |      |      |
