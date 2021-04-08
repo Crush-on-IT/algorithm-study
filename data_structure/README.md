@@ -34,7 +34,7 @@
 |  02  |     <a href="http://boj.kr/9012" target="_blank">괄호</a>      | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |  ✅  |      |  ✅  |
 |  03  |     <a href="http://boj.kr/18258" target="_blank">큐 2</a>     | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |  ✅  | ✅  |  ✅  |
 |  04  |     <a href="http://boj.kr/2164" target="_blank">카드2</a>     | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |      |  ✅  |  ✅  |
-|  05  |      <a href="http://boj.kr/10866" target="_blank">덱</a>      | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |      | ✅   |  ✅  |
+|  05  |      <a href="http://boj.kr/10866" target="_blank">덱</a>      | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |   ✅   | ✅   |  ✅  |
 |  06  |   <a href="http://boj.kr/1874" target="_blank">스택 수열</a>   | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |      |  ✅ |  ✅  |
 |  07  | <a href="http://boj.kr/1935" target="_blank">후위 표기식2</a>  | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |      | ✅  |  ✅  |
 |  08  |   <a href="http://boj.kr/10799" target="_blank">쇠막대기</a>   | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |      |      |   ✅  |
