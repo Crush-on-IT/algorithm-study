@@ -42,7 +42,7 @@
 |  10  | <a href="http://boj.kr/2346" target="_blank">풍선 터뜨리기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |  ✅    | ✅ |   ✅   |
 |  12  |   <a href="http://boj.kr/2800" target="_blank">괄호 제거</a>   | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |      |      |      |
 |  13  |      <a href="http://boj.kr/2493" target="_blank">탑</a>       | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  ✅    |      |      |
-|  14  |  <a href="http://boj.kr/1918" target="_blank">후위 표기식</a>  | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | ✅     |      |      |
+|  14  |  <a href="http://boj.kr/1918" target="_blank">후위 표기식</a>  | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | ✅     | ✅ |  |
 |  15  |      <a href="http://boj.kr/10845" target="_blank">큐</a>      | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |      |    ✅  |      |
 
 <br><br>
