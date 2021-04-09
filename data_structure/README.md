@@ -31,7 +31,7 @@
 | :--: | :------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--: | :--: | :--: |
 |  00  | <a href="http://boj.kr/1158" target="_blank">요세푸스 문제</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/>  |  ✅  |  ✅  |  ✅  |
 |  01  |     <a href="http://boj.kr/10828" target="_blank">스택</a>     | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |  ✅  |   ✅   |  ✅  |
-|  02  |     <a href="http://boj.kr/9012" target="_blank">괄호</a>      | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |  ✅  |      |  ✅  |
+|  02  |     <a href="http://boj.kr/9012" target="_blank">괄호</a>      | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |  ✅  | ✅ |  ✅  |
 |  03  |     <a href="http://boj.kr/18258" target="_blank">큐 2</a>     | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |  ✅  | ✅  |  ✅  |
 |  04  |     <a href="http://boj.kr/2164" target="_blank">카드2</a>     | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |      |  ✅  |  ✅  |
 |  05  |      <a href="http://boj.kr/10866" target="_blank">덱</a>      | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |   ✅   | ✅   |  ✅  |
