@@ -51,10 +51,10 @@
 
 | 순번 |                                  문제 이름                                   |                                       난이도                                        | 수민 | 새음 | 석렬 |
 | :--: | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--: | :--: | :--: |
-|  00  | <a href="http://boj.kr/1620" target="_blank">나는야 포켓몬 마스터 이다솜</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |      |      |      |     |
-|  01  |        <a href="http://boj.kr/14425" target="_blank">문자열 집합</a>         | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |      |      |      |     |
-|  02  |          <a href="http://boj.kr/11279" target="_blank">최대 힙</a>           | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/>  |      |      |      |     |
-|  03  |         <a href="http://boj.kr/11286" target="_blank">절댓값 힙</a>          | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |      |      |      |     |
+|  00  | <a href="http://boj.kr/1620" target="_blank">나는야 포켓몬 마스터 이다솜</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/>  |   ✅   |      |      |     |
+|  01  |        <a href="http://boj.kr/14425" target="_blank">문자열 집합</a>         | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/>  |   ✅   |      |      |     |
+|  02  |          <a href="http://boj.kr/11279" target="_blank">최대 힙</a>           | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/>  |  ✅    |      |      |     |
+|  03  |         <a href="http://boj.kr/11286" target="_blank">절댓값 힙</a>          | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |   ✅   |      |      |     |
 |  04  |      <a href="http://boj.kr/7662" target="_blank">이중 우선순위 큐</a>       | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |      |      |      |     |
 |  05  |         <a href="http://boj.kr/2075" target="_blank">N번째 큰 수</a>         | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |      |      |      |     |
 |  06  |           <a href="http://boj.kr/4358" target="_blank">생태학</a>            | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |      |      |      |     |
