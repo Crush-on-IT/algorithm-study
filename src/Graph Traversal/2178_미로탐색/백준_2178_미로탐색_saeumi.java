@@ -32,8 +32,6 @@ public class 백준_2178_미로탐색_saeumi {
 		StringTokenizer st = new StringTokenizer(br.readLine());
 		N = Integer.parseInt(st.nextToken());
 		M = Integer.parseInt(st.nextToken());
-		cnt = 0;
-
 		arr = new int[N][M];
 		visit = new boolean[N][M];
 
@@ -48,7 +46,6 @@ public class 백준_2178_미로탐색_saeumi {
 			for (int j = 0; j < M; j++) {
 				if (arr[i][j] == 1 && !visit[i][j]) {
 					bfs(i, j);
-					cnt++;
 				}
 			}
 		}
