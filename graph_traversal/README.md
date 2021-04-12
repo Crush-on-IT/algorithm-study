@@ -24,7 +24,7 @@
 
 | 순번 |                           문제 이름                            |                                       난이도                                        | 수민 | 새음 | 석렬 |
 | :--: | :------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--: | :--: | :--: |
-| 00 |<a href="http://boj.kr/2606" target="_blank">바이러스</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |✅|||
+| 00 |<a href="http://boj.kr/2606" target="_blank">바이러스</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅||
 | 01 |<a href="http://boj.kr/1260" target="_blank">DFS와 BFS</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |✅|||
 | 02 |<a href="http://boj.kr/11725" target="_blank">트리의 부모 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |✅|||
 | 03 | <a href="http://boj.kr/1325" target="_blank">효율적인 해킹</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> ||||
