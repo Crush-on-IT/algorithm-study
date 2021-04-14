@@ -45,7 +45,7 @@
 | 18 | <a href="http://boj.kr/18513" target="_blank">샘터</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||||
 | 19 | <a href="http://boj.kr/2668" target="_blank">숫자고르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||||
 | 20 | <a href="http://boj.kr/13023" target="_blank">ABCDE</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||||
-| 21 | <a href="http://boj.kr/16954" target="_blank">움직이는 미로 탈출</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> ||||
+| 21 | <a href="http://boj.kr/16954" target="_blank">움직이는 미로 탈출</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |✅|||
 | 22 | <a href="http://boj.kr/2206" target="_blank">벽 부수고 이동하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> ||||
 | 23 | <a href="http://boj.kr/2573" target="_blank">빙산</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> ||||
 | 24 | <a href="http://boj.kr/4179" target="_blank">불!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> ||||
