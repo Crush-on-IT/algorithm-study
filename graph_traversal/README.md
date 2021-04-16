@@ -34,7 +34,7 @@
 | 07 | <a href="http://boj.kr/7569" target="_blank">토마토</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||✅||
 | 08 | <a href="http://boj.kr/16918" target="_blank">봄버맨</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||||
 | 09 | <a href="http://boj.kr/5547" target="_blank">일루미네이션</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||||
-| 10 | <a href="http://boj.kr/14502" target="_blank">연구소</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||✅||
+| 10 | <a href="http://boj.kr/14502" target="_blank">연구소</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |✅|✅||
 | 11 | <a href="http://boj.kr/16234" target="_blank">인구 이동</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |✅|✅||
 | 12 | <a href="http://boj.kr/2636" target="_blank">치즈</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||✅||
 | 13 | <a href="http://boj.kr/13549" target="_blank">숨바꼭질 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||||
