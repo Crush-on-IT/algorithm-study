@@ -34,14 +34,14 @@
 | 07 | <a href="http://boj.kr/7569" target="_blank">토마토</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||✅||
 | 08 | <a href="http://boj.kr/16918" target="_blank">봄버맨</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||||
 | 09 | <a href="http://boj.kr/5547" target="_blank">일루미네이션</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||||
-| 10 | <a href="http://boj.kr/14502" target="_blank">연구소</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||✅||
+| 10 | <a href="http://boj.kr/14502" target="_blank">연구소</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |✅|✅||
 | 11 | <a href="http://boj.kr/16234" target="_blank">인구 이동</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |✅|✅||
 | 12 | <a href="http://boj.kr/2636" target="_blank">치즈</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||✅||
 | 13 | <a href="http://boj.kr/13549" target="_blank">숨바꼭질 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||||
 | 14 | <a href="http://boj.kr/1600" target="_blank">말이 되고픈 원숭이</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||✅||
 | 15 | <a href="http://boj.kr/17836" target="_blank">공주님을 구해라!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||||
-| 16 | <a href="http://boj.kr/16973" target="_blank">직사각형 탈출</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||||
-| 17 | <a href="http://boj.kr/14940" target="_blank">쉬운 최단거리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |||✅|
+| 16 | <a href="http://boj.kr/16973" target="_blank">직사각형 탈출</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||✅||
+| 17 | <a href="http://boj.kr/14940" target="_blank">쉬운 최단거리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||✅|✅|
 | 18 | <a href="http://boj.kr/18513" target="_blank">샘터</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||||
 | 19 | <a href="http://boj.kr/2668" target="_blank">숫자고르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||||
 | 20 | <a href="http://boj.kr/13023" target="_blank">ABCDE</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||||
