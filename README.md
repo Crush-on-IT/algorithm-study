@@ -73,8 +73,8 @@
 |순번|Tag|태그|문제집|상태|
 |--|--|--|--|--|
 |01|Data Structure|자료구조|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/master/data_structure/README.md)|☑️|
-|02|Graph Traversal|그래프 탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/master/graph_traversal/README.md)|👀|
-|03|Binary Search|이분탐색||:white_large_square:|
+|02|Graph Traversal|그래프 탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/master/graph_traversal/README.md)|☑️|
+|03|Binary Search|이분탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/master/binary_search/README.md)|👀|
 |04|Backtracking|백트래킹||:white_large_square:|
 |05|Dynamic Programming|동적계획법||:white_large_square:|
 |06|Divide and conquer|분할정복||:white_large_square:|
