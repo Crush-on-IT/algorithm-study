@@ -30,7 +30,7 @@
 | 03 | <a href="http://boj.kr/1325" target="_blank">효율적인 해킹</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |||✅|
 | 04 | <a href="http://boj.kr/2178" target="_blank">미로 탐색</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||✅||
 | 05 | <a href="http://boj.kr/2667" target="_blank">단지번호붙이기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||✅|✅|
-| 06 | <a href="http://boj.kr/7576" target="_blank">토마토</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||✅|✅|
+| 06 | <a href="http://boj.kr/7576" target="_blank">토마토</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |✅|✅|✅|
 | 07 | <a href="http://boj.kr/7569" target="_blank">토마토</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||✅||
 | 08 | <a href="http://boj.kr/16918" target="_blank">봄버맨</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||||
 | 09 | <a href="http://boj.kr/5547" target="_blank">일루미네이션</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||||
@@ -51,5 +51,6 @@
 | 24 | <a href="http://boj.kr/4179" target="_blank">불!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> ||||
 | 25 | <a href="http://boj.kr/16932" target="_blank">모양 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> ||||
 | 26 | <a href="http://boj.kr/9466" target="_blank">텀 프로젝트</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> ||||
-| 27 | <a href="http://boj.kr/1967" target="_blank">트리의 지름</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> ||||
+| 27 | <a href="http://boj.kr/1967" target="_blank">트리의 지름</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |✅|||
+| 28 | <a href="http://boj.kr/17135" target="_blank">캐슬 디펜스</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |✅|✅||
 
