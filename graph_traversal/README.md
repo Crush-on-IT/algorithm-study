@@ -28,7 +28,7 @@
 | 01 |<a href="http://boj.kr/1260" target="_blank">DFS와 BFS</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |✅|✅|✅|
 | 02 |<a href="http://boj.kr/11725" target="_blank">트리의 부모 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |✅|✅||
 | 03 | <a href="http://boj.kr/1325" target="_blank">효율적인 해킹</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |||✅|
-| 04 | <a href="http://boj.kr/2178" target="_blank">미로 탐색</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||✅||
+| 04 | <a href="http://boj.kr/2178" target="_blank">미로 탐색</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||✅|✅|
 | 05 | <a href="http://boj.kr/2667" target="_blank">단지번호붙이기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||✅|✅|
 | 06 | <a href="http://boj.kr/7576" target="_blank">토마토</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |✅|✅|✅|
 | 07 | <a href="http://boj.kr/7569" target="_blank">토마토</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> ||✅||
