@@ -22,8 +22,8 @@
 
 | 순번 |                           문제 이름                            |                                       난이도                                        | 수민 | 새음 | 석렬 |
 | :--: | :------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--: | :--: | :--: |
-| 00 |  <a href="http://boj.kr/1789" target="_blank">수들의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |✅|||
-| 01 |  <a href="http://boj.kr/2417" target="_blank">정수 제곱근</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |✅|||
+| 00 |  <a href="http://boj.kr/1789" target="_blank">수들의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |✅|✅||
+| 01 |  <a href="http://boj.kr/2417" target="_blank">정수 제곱근</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |✅|✅||
 | 02 |  <a href="http://boj.kr/10815" target="_blank">숫자 카드</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |✅||✅|
 | 03 |  <a href="http://boj.kr/2805" target="_blank">나무 자르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> ||✅||
 | 04 |  <a href="http://boj.kr/1654" target="_blank">랜선 자르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> ||✅||
