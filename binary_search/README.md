@@ -21,13 +21,13 @@
 ## 추천문제
 
 | 순번 |                           문제 이름                            |                                       난이도                                        | 수민 | 새음 | 석렬 |
-| :--: | :------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--: | :--: | :--: |
+| :--: | :------------------------------------------------------------: | :---------------------------------------------------------------------------------- | :--: | :--: | :--: |
 | 00 |  <a href="http://boj.kr/1789" target="_blank">수들의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |✅|✅||
 | 01 |  <a href="http://boj.kr/2417" target="_blank">정수 제곱근</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |✅|✅||
 | 02 |  <a href="http://boj.kr/10815" target="_blank">숫자 카드</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |✅|✅|✅|
 | 03 |  <a href="http://boj.kr/2805" target="_blank">나무 자르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> ||✅||
 | 04 |  <a href="http://boj.kr/1654" target="_blank">랜선 자르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅|✅|
-| 05 |  <a href="http://boj.kr/2512" target="_blank">예산</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> ||||
+| 05 |  <a href="http://boj.kr/2512" target="_blank">예산</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> ||✅||
 | 06 |  <a href="http://boj.kr/19637" target="_blank">IF문 좀 대신 써줘</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> ||||
 | 07 |  <a href="http://boj.kr/11663" target="_blank">선분 위의 점</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |✅||✅|
 | 08 |  <a href="http://boj.kr/2110" target="_blank">공유기 설치</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |||✅|
