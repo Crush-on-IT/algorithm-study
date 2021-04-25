@@ -34,7 +34,7 @@
 | 09 |  <a href="http://boj.kr/3079" target="_blank">입국심사</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |✅||✅|
 | 10 |  <a href="http://boj.kr/2470" target="_blank">두 용액</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||||
 | 11 |  <a href="http://boj.kr/1477" target="_blank">휴게소 세우기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |✅|✅|✅|
-| 12 |  <a href="http://boj.kr/20444" target="_blank">색종이와 가위</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> ||||
+| 12 |  <a href="http://boj.kr/20444" target="_blank">색종이와 가위</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |✅|||
 | 13 |  <a href="http://boj.kr/1939" target="_blank">중량제한</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |||✅|
 | 14 |  <a href="http://boj.kr/2473" target="_blank">세 용액</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> ||||
 | 15 |  <a href="http://boj.kr/13397" target="_blank">구간 나누기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> ||||
