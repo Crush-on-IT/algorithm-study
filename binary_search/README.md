@@ -39,7 +39,7 @@
 | 14 |  <a href="http://boj.kr/2473" target="_blank">세 용액</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> ||||
 | 15 |  <a href="http://boj.kr/13397" target="_blank">구간 나누기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> ||||
 | 16 |  <a href="http://boj.kr/2412" target="_blank">암벽 등반</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> ||||
-| 17 |  <a href="http://boj.kr/1300" target="_blank">K번째 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> ||||
+| 17 |  <a href="http://boj.kr/1300" target="_blank">K번째 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |||✅|
 | 18 |  <a href="http://boj.kr/7453" target="_blank">합이 0인 네 정수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> ||||
 
 
