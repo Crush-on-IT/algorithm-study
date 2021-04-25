@@ -46,7 +46,7 @@ public class 백준_2110_공유기설치_saeumi { // 파라매트릭 서치문�
 				max = middle - 1;
 		}
 
-		System.out.println(min);
+		System.out.println(answer);
 
 	} // end of main
 } // end of class
