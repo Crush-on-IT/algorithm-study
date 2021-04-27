@@ -22,7 +22,7 @@
 ✅
 | 순번 |                           문제 이름                            |                                       난이도                                        | 수민 | 새음 | 석렬 | 지현 |
 | :--: | :------------------------------------------------------------: | :---------------------------------------------------------------------------------- | :--: | :--: | :--: | :--: |
-| 00 | <a href="https://www.acmicpc.net/problem/15649" target="_blank">N과 M (1)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅|||
+| 00 | <a href="https://www.acmicpc.net/problem/15649" target="_blank">N과 M (1)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅|✅||
 | 01 | <a href="https://www.acmicpc.net/problem/15650" target="_blank">N과 M (2)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✅|||
 | 02 | <a href="https://www.acmicpc.net/problem/15651" target="_blank">N과 M (3)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✅|||
 | 03 | <a href="https://www.acmicpc.net/problem/15652" target="_blank">N과 M (4)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✅|||
@@ -41,7 +41,7 @@
 | 16 | <a href="https://www.acmicpc.net/problem/14888" target="_blank">연산자 끼워넣기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
 | 17 | <a href="https://www.acmicpc.net/problem/1174" target="_blank">줄어드는 숫자</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
 | 18 | <a href="https://www.acmicpc.net/problem/18430" target="_blank">무기 공학</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
-| 19 | <a href="https://www.acmicpc.net/problem/9663" target="_blank">N-Queen</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||||
+| 19 | <a href="https://www.acmicpc.net/problem/9663" target="_blank">N-Queen</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||✅||
 | 20 | <a href="https://www.acmicpc.net/problem/2580" target="_blank">스도쿠</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
 | 21 | <a href="https://www.acmicpc.net/problem/1062" target="_blank">가르침</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
 | 22 | <a href="https://www.acmicpc.net/problem/2661" target="_blank">좋은수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
