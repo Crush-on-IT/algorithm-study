@@ -10,25 +10,24 @@ Backtracking, DFS
 import sys
 
 
-def dfs(depth):
-    global N, M, visited, buffer
-
-    if depth == M:
-        print(" ".join(map(str, buffer)))
+def dfs(index, sums):
+    global N, M, case
+    if index >= N:
         return
-    for i in range(N):
-        if not visited[i]:
-            visited[i] = True
-            buffer.append(i+1)
-            dfs(depth+1)
-            visited[i] = False
-            buffer.pop()
+    new_sum = sums + nums[index]
+    if  new_sum == M:
+        case += 1
+    dfs(index + 1, new_sum)
+    dfs(index + 1, sums)
 
 
 N, M = map(int, sys.stdin.readline().split())
-visited = [False] * N
-buffer = []
-dfs(0)
+nums = list(map(int, sys.stdin.readline().rstrip().split()))
+nums.sort()
+case = 0
+dfs(0, 0)
+print(case)
+
 ```
 
 ### &#127822; 풀이 방법
