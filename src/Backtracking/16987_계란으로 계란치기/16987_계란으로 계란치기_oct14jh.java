@@ -37,7 +37,6 @@ public class BOJ_16987_계란으로계란치기_oct14jh {
 	private static int N;
 	private static Egg[] box;
 	
-	private static boolean visited[];
 	private static int result = Integer.MIN_VALUE;
 	
 	public static void main(String[] args) throws NumberFormatException, IOException {
@@ -46,7 +45,6 @@ public class BOJ_16987_계란으로계란치기_oct14jh {
 		
 		N = Integer.parseInt(br.readLine().trim());
 
-		visited = new boolean[N];
 		box = new Egg[N];
 		for(int i = 0; i < N; i++) {
 			st = new StringTokenizer(br.readLine(), " ");
@@ -63,44 +61,39 @@ public class BOJ_16987_계란으로계란치기_oct14jh {
 		br.close();
 	}
 	
-	private static void dfs(int index, int count) {
-		if(index == N) {
-			result = Math.max(count, result);
+	private static void dfs(int handEgg, int count) {
+		result = Math.max(result, count);
+		
+		if(handEgg == N) {
 			return;
-		} else {
-			boolean brokenEgg = true;
-			
-			for(int i = 0; i < N; i++) {
-				if(!visited[i])
-					brokenEgg = false;
-				if(!visited[i] && i != index) {
-					box[i].durability -= box[index].weight;
-					box[index].durability -= box[i].weight;
-					int tempCount = 0;
-					if(box[index].durability <= 0) {
-						visited[index] = true;
-						tempCount++;
-					}
-					if(box[i].durability <= 0) {
-						visited[i] = true;
-						tempCount++;
-					}
-					
-					dfs(index + 1, count + tempCount);
-					
-					if(box[index].durability <= 0) {
-						visited[index] = false;
-					}
-					if(box[i].durability <= 0) {
-						visited[i] = false;
-					}
-					box[index].durability += box[i].weight;
-					box[i].durability += box[index].weight;
-				}
-			}
-			
-			if(!brokenEgg)
-				dfs(N, count);
 		}
+		
+		if(box[handEgg].durability <= 0) {
+			dfs(handEgg + 1, count);
+			return;
+		}
+		
+		for(int i = 0; i < N; i++) {
+			if(handEgg != i && box[i].durability > 0) {
+				int breakEggCnt = hit(handEgg, i);
+				dfs(handEgg + 1, count + breakEggCnt);
+				box[handEgg].durability += box[i].weight;
+				box[i].durability += box[handEgg].weight;
+			}
+		}
+	}
+	
+	private static int hit(int handEgg, int nextEgg) {
+		int tempCount = 0;
+		
+		box[handEgg].durability -= box[nextEgg].weight;
+		box[nextEgg].durability -= box[handEgg].weight;
+		
+		if(box[handEgg].durability <= 0)
+			tempCount++;
+		if(box[nextEgg].durability <= 0)
+			tempCount++;
+		
+		return tempCount;
 	}
 }
