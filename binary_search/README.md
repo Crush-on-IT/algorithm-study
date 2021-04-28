@@ -14,7 +14,7 @@
 
 | 수민                      | 새음 | 석렬 |
 | ------------------------- | ---- | ---- |
-| [개념 정리](https://sumin416.tistory.com/entry/Binary-Search%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89) |      |      |
+| [개념 정리](https://sumin416.tistory.com/entry/Binary-Search%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89) | |[Binary Search vs Parametric Search](https://www.notion.so/Binary-Search-VS-Parametric-Search-cbc6b35852084a55bdeb70edd93639b3)      |
 
 <br>
 
