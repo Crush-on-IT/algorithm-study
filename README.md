@@ -35,10 +35,12 @@
 
 ### :snail:  Contributors
 > [sumin416](https://github.com/sumin416)
-> 
+>
 > [saeumi](https://github.com/saeumi)
-> 
+>
 > [Screwlim](https://github.com/Screwlim)
+>
+> [oct14jh](https://github.com/oct14jh)
 
 
 <br>
@@ -102,7 +104,7 @@
  - [#issue1] Comparator, Comparable
  - [#issue2] String 크기 비교 : str1.compareTo(str2)
  - Arrays.sort() vs. Collections.sort()
- 
+
 <br>
 <br>
 
