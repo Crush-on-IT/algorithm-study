@@ -24,7 +24,7 @@
 | :--: | :------------------------------------------------------------: | :---------------------------------------------------------------------------------- | :--: | :--: | :--: | :--: |
 | 00 | <a href="https://www.acmicpc.net/problem/15649" target="_blank">N과 M (1)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅|✅|✅|
 | 01 | <a href="https://www.acmicpc.net/problem/15650" target="_blank">N과 M (2)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅|||
-| 02 | <a href="https://www.acmicpc.net/problem/15651" target="_blank">N과 M (3)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✅|||
+| 02 | <a href="https://www.acmicpc.net/problem/15651" target="_blank">N과 M (3)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅|||
 | 03 | <a href="https://www.acmicpc.net/problem/15652" target="_blank">N과 M (4)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✅|||
 | 04 | <a href="https://www.acmicpc.net/problem/15654" target="_blank">N과 M (5)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✅|||
 | 05 | <a href="https://www.acmicpc.net/problem/15655" target="_blank">N과 M (6)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✅|||
