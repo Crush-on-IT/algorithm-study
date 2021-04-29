@@ -72,10 +72,10 @@
 ### :snail:  알고리즘 유형
 |순번|Tag|태그|문제집|상태|
 |--|--|--|--|--|
-|01|Data Structure|자료구조|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/master/data_structure/README.md)|☑️|
-|02|Graph Traversal|그래프 탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/master/graph_traversal/README.md)|☑️|
-|03|Binary Search|이분탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/master/binary_search/README.md)|☑️|
-|04|Backtracking|백트래킹|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/master/backtracking/README.md)|👀|
+|01|Data Structure|자료구조|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/data_structure/README.md)|☑️|
+|02|Graph Traversal|그래프 탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/graph_traversal/README.md)|☑️|
+|03|Binary Search|이분탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/binary_search/README.md)|☑️|
+|04|Backtracking|백트래킹|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/backtracking/README.md)|👀|
 |05|Dynamic Programming|동적계획법||:white_large_square:|
 |06|Divide and conquer|분할정복||:white_large_square:|
 |07|Shortest Path|최단거리||:white_large_square:|
