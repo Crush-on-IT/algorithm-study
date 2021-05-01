@@ -26,15 +26,15 @@
 | 01 | <a href="https://www.acmicpc.net/problem/15650" target="_blank">N과 M (2)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅|✅||
 | 02 | <a href="https://www.acmicpc.net/problem/15651" target="_blank">N과 M (3)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅|✅||
 | 03 | <a href="https://www.acmicpc.net/problem/15652" target="_blank">N과 M (4)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅|✅||
-| 04 | <a href="https://www.acmicpc.net/problem/15654" target="_blank">N과 M (5)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✅|✅||
-| 05 | <a href="https://www.acmicpc.net/problem/15655" target="_blank">N과 M (6)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✅|✅||
-| 06 | <a href="https://www.acmicpc.net/problem/15656" target="_blank">N과 M (7)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✅|✅||
-| 07 | <a href="https://www.acmicpc.net/problem/15657" target="_blank">N과 M (8)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✅|✅||
-| 08 | <a href="https://www.acmicpc.net/problem/15663" target="_blank">N과 M (9)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||✅|||
-| 09 | <a href="https://www.acmicpc.net/problem/15664" target="_blank">N과 M (10)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||✅|||
-| 10 | <a href="https://www.acmicpc.net/problem/15665" target="_blank">N과 M (11)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||✅|||
-| 11 | <a href="https://www.acmicpc.net/problem/15666" target="_blank">N과 M (12)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||✅|||
-| 12 | <a href="https://www.acmicpc.net/problem/1182" target="_blank">부분수열의 합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||✅|✅||
+| 04 | <a href="https://www.acmicpc.net/problem/15654" target="_blank">N과 M (5)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅|✅||
+| 05 | <a href="https://www.acmicpc.net/problem/15655" target="_blank">N과 M (6)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅|✅||
+| 06 | <a href="https://www.acmicpc.net/problem/15656" target="_blank">N과 M (7)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅|✅||
+| 07 | <a href="https://www.acmicpc.net/problem/15657" target="_blank">N과 M (8)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✅|✅||
+| 08 | <a href="https://www.acmicpc.net/problem/15663" target="_blank">N과 M (9)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |✅|✅|||
+| 09 | <a href="https://www.acmicpc.net/problem/15664" target="_blank">N과 M (10)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |✅|✅|||
+| 10 | <a href="https://www.acmicpc.net/problem/15665" target="_blank">N과 M (11)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |✅|✅|||
+| 11 | <a href="https://www.acmicpc.net/problem/15666" target="_blank">N과 M (12)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |✅|✅|||
+| 12 | <a href="https://www.acmicpc.net/problem/1182" target="_blank">부분수열의 합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |✅|✅|✅||
 | 13 | <a href="https://www.acmicpc.net/problem/10971" target="_blank">외판원 순회 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||✅||
 | 14 | <a href="https://www.acmicpc.net/problem/16987" target="_blank">계란으로 계란치기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||✅|✅|✅|
 | 15 | <a href="https://www.acmicpc.net/problem/14712" target="_blank">넴모넴모 (Easy)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
