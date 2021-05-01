@@ -78,7 +78,7 @@
 |02|Graph Traversal|그래프 탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/graph_traversal/README.md)|☑️|
 |03|Binary Search|이분탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/binary_search/README.md)|☑️|
 |04|Backtracking|백트래킹|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/backtracking/README.md)|👀|
-|05|Dynamic Programming|동적계획법||:white_large_square:|
+|05|Dynamic Programming|동적계획법|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/dynamic_programming/README.md)|👀|
 |06|Divide and conquer|분할정복||:white_large_square:|
 |07|Shortest Path|최단거리||:white_large_square:|
 |08|Disjoint Set|분리 집합||:white_large_square:|
