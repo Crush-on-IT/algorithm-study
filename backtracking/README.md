@@ -44,7 +44,7 @@
 | 20 | <a href="https://www.acmicpc.net/problem/2580" target="_blank">스도쿠</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
 | 21 | <a href="https://www.acmicpc.net/problem/1062" target="_blank">가르침</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
 | 22 | <a href="https://www.acmicpc.net/problem/2661" target="_blank">좋은수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
-| 23 | <a href="https://www.acmicpc.net/problem/3980" target="_blank">선발 명단</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |✅|||✅|
+| 23 | <a href="https://www.acmicpc.net/problem/3980" target="_blank">선발 명단</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |✅||✅|✅|
 | 24 | <a href="https://www.acmicpc.net/problem/6443" target="_blank">애너그램</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |||||
 | 25 | <a href="https://www.acmicpc.net/problem/17136" target="_blank">색종이 붙이기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> ||||✅|
 | 26 | <a href="https://www.acmicpc.net/problem/1799" target="_blank">비숍</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |||||
