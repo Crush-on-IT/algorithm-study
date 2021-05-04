@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class 백준_2748_피보나치수2_oct14jh {
+	private static int N;
+	private static long[] memoization;
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		N = sc.nextInt();
+		
+		// 메모이제이션 초기화
+		memoization = new long[N+1];
+		memoization[0] = 0;
+		memoization[1] = 1;
+		
+		// 메모이제이션 활용
+		for (int i=2;i<=N;i++) {
+			memoization[i] = memoization[i-1] + memoization[i-2];
+		}
+		System.out.println(memoization[N]);
+		
+		sc.close();
+	}
+	
+}

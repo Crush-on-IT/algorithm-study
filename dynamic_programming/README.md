@@ -23,9 +23,9 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | <a href="https://www.acmicpc.net/problem/10870" target="_blank">피보나치 수 5</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |✅||||
 | 01 | <a href="https://www.acmicpc.net/problem/2839" target="_blank">설탕 배달</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |✅|✌|||
-| 02 | <a href="https://www.acmicpc.net/problem/2748" target="_blank">피보나치 수 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |✅|✌|✅||
+| 02 | <a href="https://www.acmicpc.net/problem/2748" target="_blank">피보나치 수 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |✅|✌|✅|✅|
 | 03 | <a href="https://www.acmicpc.net/problem/1010" target="_blank">다리 놓기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> ||✌|✅||
-| 04 | <a href="https://www.acmicpc.net/problem/9655" target="_blank">돌 게임</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> ||✌|||
+| 04 | <a href="https://www.acmicpc.net/problem/9655" target="_blank">돌 게임</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> ||✌||✅|
 | 05 | <a href="https://www.acmicpc.net/problem/17626" target="_blank">Four Squares</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |||||
 | 06 | <a href="https://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✌|✅||
 | 07 | <a href="https://www.acmicpc.net/problem/9095" target="_blank">1, 2, 3 더하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
