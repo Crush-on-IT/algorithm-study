@@ -28,7 +28,7 @@
 | 04 | <a href="https://www.acmicpc.net/problem/9655" target="_blank">돌 게임</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> ||✌||✅|
 | 05 | <a href="https://www.acmicpc.net/problem/17626" target="_blank">Four Squares</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |||||
 | 06 | <a href="https://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✌|✅||
-| 07 | <a href="https://www.acmicpc.net/problem/9095" target="_blank">1, 2, 3 더하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
+| 07 | <a href="https://www.acmicpc.net/problem/9095" target="_blank">1, 2, 3 더하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✌|||
 | 08 | <a href="https://www.acmicpc.net/problem/11726" target="_blank">2×n 타일링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
 | 09 | <a href="https://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||✅||
 | 10 | <a href="https://www.acmicpc.net/problem/11727" target="_blank">2×n 타일링 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
@@ -37,7 +37,7 @@
 | 13 | <a href="https://www.acmicpc.net/problem/9465" target="_blank">스티커</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
 | 14 | <a href="https://www.acmicpc.net/problem/11055" target="_blank">가장 큰 증가 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
 | 15 | <a href="https://www.acmicpc.net/problem/1890" target="_blank">점프</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
-| 16 | <a href="https://www.acmicpc.net/problem/2407" target="_blank">조합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
+| 16 | <a href="https://www.acmicpc.net/problem/2407" target="_blank">조합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||✌|||
 | 17 | <a href="https://www.acmicpc.net/problem/1106" target="_blank">호텔</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
 | 18 | <a href="https://www.acmicpc.net/problem/15486" target="_blank">퇴사 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
 | 19 | <a href="https://www.acmicpc.net/problem/2156" target="_blank">포도주 시식</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
