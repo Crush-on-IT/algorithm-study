@@ -61,7 +61,7 @@
 | 37 | <a href="https://www.acmicpc.net/problem/2073" target="_blank">수도배관공사</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||||
 | 38 | <a href="https://www.acmicpc.net/problem/18427" target="_blank">함께 블록 쌓기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
 | 39 | <a href="https://www.acmicpc.net/problem/2758" target="_blank">로또</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
-| 40 | <a href="https://www.acmicpc.net/problem/1520" target="_blank">내리막 길</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
+| 40 | <a href="https://www.acmicpc.net/problem/1520" target="_blank">내리막 길</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||✅||
 | 41 | <a href="https://www.acmicpc.net/problem/2056" target="_blank">작업</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
 | 42 | <a href="https://www.acmicpc.net/problem/1695" target="_blank">팰린드롬 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
 | 43 | <a href="https://www.acmicpc.net/problem/20542" target="_blank">받아쓰기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
