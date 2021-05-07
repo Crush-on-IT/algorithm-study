@@ -38,7 +38,7 @@
 | 14 | <a href="https://www.acmicpc.net/problem/11055" target="_blank">가장 큰 증가 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
 | 15 | <a href="https://www.acmicpc.net/problem/1890" target="_blank">점프</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||✅||
 | 16 | <a href="https://www.acmicpc.net/problem/2407" target="_blank">조합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||✌|||
-| 17 | <a href="https://www.acmicpc.net/problem/1106" target="_blank">호텔</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
+| 17 | <a href="https://www.acmicpc.net/problem/1106" target="_blank">호텔</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||||✅|
 | 18 | <a href="https://www.acmicpc.net/problem/15486" target="_blank">퇴사 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
 | 19 | <a href="https://www.acmicpc.net/problem/2156" target="_blank">포도주 시식</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
 | 20 | <a href="https://www.acmicpc.net/problem/10844" target="_blank">쉬운 계단 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
