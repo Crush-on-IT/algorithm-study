@@ -30,7 +30,7 @@
 | 06 | <a href="https://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✌|✅|✅|
 | 07 | <a href="https://www.acmicpc.net/problem/9095" target="_blank">1, 2, 3 더하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||✌|||
 | 08 | <a href="https://www.acmicpc.net/problem/11726" target="_blank">2×n 타일링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||||✅|
-| 09 | <a href="https://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅||✅||
+| 09 | <a href="https://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|✌|✅||
 | 10 | <a href="https://www.acmicpc.net/problem/11727" target="_blank">2×n 타일링 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
 | 11 | <a href="https://www.acmicpc.net/problem/11053" target="_blank">가장 긴 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
 | 12 | <a href="https://www.acmicpc.net/problem/1912" target="_blank">연속합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |✅||✅||
@@ -48,7 +48,7 @@
 | 24 | <a href="https://www.acmicpc.net/problem/21317" target="_blank">징검다리 건너기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
 | 25 | <a href="https://www.acmicpc.net/problem/9084" target="_blank">동전</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
 | 26 | <a href="https://www.acmicpc.net/problem/15724" target="_blank">주지수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
-| 27 | <a href="https://www.acmicpc.net/problem/12865" target="_blank">평범한 배낭</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> ||||✅|
+| 27 | <a href="https://www.acmicpc.net/problem/12865" target="_blank">평범한 배낭</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> ||✌||✅|
 | 28 | <a href="https://www.acmicpc.net/problem/9251" target="_blank">LCS</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||||
 | 29 | <a href="https://www.acmicpc.net/problem/2225" target="_blank">합분해</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||||
 | 30 | <a href="https://www.acmicpc.net/problem/1915" target="_blank">가장 큰 정사각형</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||||
