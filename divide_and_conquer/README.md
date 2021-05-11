@@ -24,7 +24,7 @@
 | 02 | <a href="https://www.acmicpc.net/problem/17829" target="_blank">222-풀링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||✅|||
 | 03 | <a href="https://www.acmicpc.net/problem/18222" target="_blank">투에-모스 문자열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
 | 04 | <a href="https://www.acmicpc.net/problem/2447" target="_blank">별 찍기 - 10</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
-| 05 | <a href="https://www.acmicpc.net/problem/1992" target="_blank">쿼드트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
+| 05 | <a href="https://www.acmicpc.net/problem/1992" target="_blank">쿼드트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||||✅|
 | 06 | <a href="https://www.acmicpc.net/problem/1074" target="_blank">Z</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |✅||||
 | 07 | <a href="https://www.acmicpc.net/problem/4779" target="_blank">칸토어 집합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
 | 08 | <a href="https://www.acmicpc.net/problem/1780" target="_blank">종이의 개수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||✅||
