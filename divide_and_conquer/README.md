@@ -32,7 +32,7 @@
 | 10 | <a href="https://www.acmicpc.net/problem/5904" target="_blank">Moo 게임</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||||✅|
 | 11 | <a href="https://www.acmicpc.net/problem/2374" target="_blank">같은 수로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||||
 | 12 | <a href="https://www.acmicpc.net/problem/1493" target="_blank">박스 채우기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||✅||
-| 13 | <a href="https://www.acmicpc.net/problem/4256" target="_blank">트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||✅||
+| 13 | <a href="https://www.acmicpc.net/problem/4256" target="_blank">트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> ||✅|✅||
 | 14 | <a href="https://www.acmicpc.net/problem/2448" target="_blank">별 찍기 - 11</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
 | 15 | <a href="https://www.acmicpc.net/problem/14600" target="_blank">샤워실 바닥 깔기 (Small)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
 | 16 | <a href="https://www.acmicpc.net/problem/1030" target="_blank">프렉탈 평면</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |||||
