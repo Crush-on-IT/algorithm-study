@@ -79,8 +79,8 @@
 |03|Binary Search|이분탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/03_Binary_Search/README.md)|☑️|
 |04|Backtracking|백트래킹|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/04_Backtracking/README.md)|☑️|
 |05|Dynamic Programming|동적계획법|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/05_Dynamic_Programming/README.md)|☑️|
-|06|Divide and conquer|분할정복|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/06_Divide_and_Conquer/README.md)|👀|
-|07|Shortest Path|최단거리||:white_large_square:|
+|06|Divide and conquer|분할정복|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/06_Divide_and_Conquer/README.md)|☑️|
+|07|Shortest Path|최단거리|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/07_Shortest_Path/README.md)|👀|
 |08|Disjoint Set|분리 집합||:white_large_square:|
 |09|Minimum Spanning Tree(MST)|최소 스패닝 트리||:white_large_square:|
 |10|Topological Sorting|위상정렬||:white_large_square:|
