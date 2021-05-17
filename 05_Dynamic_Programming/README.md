@@ -6,7 +6,7 @@
 
 **_❗️❗️필수 개념❗️❗️_**
 
-- 
+- Memoization
 
 <br>
 
@@ -14,7 +14,7 @@
 
 | 수민                  | 새음 | 석렬 | 지현 |
 | ------------------------- | ---- | ---- | ---- |
-| 여기에 개념 정리한 링크들 |      |      |      |
+| 여기에 개념 정리한 링크들 |      |[Dynamic Programming](https://www.notion.so/Dynamic-Programming-50a688c3813a4a0ebbe87a32e1344dfa)|      |
 
 <br>
 
