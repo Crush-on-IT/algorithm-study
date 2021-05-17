@@ -24,7 +24,7 @@
 |          순번          |        문제 이름         |         난이도          | 수민 | 새음 | 석렬 | 지현 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | <a href="https://www.acmicpc.net/problem/18352" target="_blank">특정 거리의 도시 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
-| 01 | <a href="https://www.acmicpc.net/problem/11403" target="_blank">경로 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
+| 01 | <a href="https://www.acmicpc.net/problem/11403" target="_blank">경로 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||✅||
 | 02 | <a href="https://www.acmicpc.net/problem/2224" target="_blank">명제 증명</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
 | 03 | <a href="https://www.acmicpc.net/problem/11265" target="_blank">끝나지 않는 파티</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
 | 04 | <a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||||
