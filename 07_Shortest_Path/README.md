@@ -27,7 +27,7 @@
 | 01 | <a href="https://www.acmicpc.net/problem/11403" target="_blank">경로 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||✅||
 | 02 | <a href="https://www.acmicpc.net/problem/2224" target="_blank">명제 증명</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
 | 03 | <a href="https://www.acmicpc.net/problem/11265" target="_blank">끝나지 않는 파티</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||✅|||
-| 04 | <a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> ||✅|||
+| 04 | <a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> ||✅|✅||
 | 05 | <a href="https://www.acmicpc.net/problem/13549" target="_blank">숨바꼭질 3</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||||
 | 06 | <a href="https://www.acmicpc.net/problem/14938" target="_blank">서강그라운드</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
 | 07 | <a href="https://www.acmicpc.net/problem/1719" target="_blank">택배</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
