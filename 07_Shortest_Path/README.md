@@ -35,7 +35,7 @@
 | 09 | <a href="https://www.acmicpc.net/problem/11404" target="_blank">플로이드</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> ||✅|||
 | 10 | <a href="https://www.acmicpc.net/problem/1956" target="_blank">운동</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
 | 11 | <a href="https://www.acmicpc.net/problem/11657" target="_blank">타임머신</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||✅||
-| 12 | <a href="https://www.acmicpc.net/problem/1865" target="_blank">웜홀</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
+| 12 | <a href="https://www.acmicpc.net/problem/1865" target="_blank">웜홀</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||✅||
 | 13 | <a href="https://www.acmicpc.net/problem/1238" target="_blank">파티</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |||✅||
 | 14 | <a href="https://www.acmicpc.net/problem/10159" target="_blank">저울</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |||||
 | 15 | <a href="https://www.acmicpc.net/problem/1507" target="_blank">궁금한 민호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |||||
