@@ -19,7 +19,7 @@
 ## 추천문제
 |          순번          |        문제 이름         |         난이도          | 수민 | 새음 | 석렬 | 지현 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 01 | <a href="https://www.acmicpc.net/problem/1197" target="_blank">최소 스패닝 트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||✅||
+| 01 | <a href="https://www.acmicpc.net/problem/1197" target="_blank">최소 스패닝 트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |✅||✅|✅|
 | 02 | <a href="https://www.acmicpc.net/problem/1922" target="_blank">네트워크 연결</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |✅||✅||
 | 03 | <a href="https://www.acmicpc.net/problem/1647" target="_blank">도시 분할 계획</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
 | 04 | <a href="https://www.acmicpc.net/problem/1774" target="_blank">우주신과의 교감</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |||||
