@@ -1,9 +1,10 @@
 import sys
 
-V, S = map(int, sys.stdin.readline().split())
-
+V = int(sys.stdin.readline().rstrip())
+E = int(sys.stdin.readline().rstrip())
 edges = []
-for _ in range(S):
+
+for _ in range(E):
     a, b, w = map(int, sys.stdin.readline().split())
     edges.append((w, a, b))
 # 가중치 순으로 간선 정렬
@@ -11,6 +12,7 @@ edges.sort(key=lambda x: x[0])
 parent = list(range(V + 1))
 
 
+#간선 압축
 def union(a, b):
     a = find(a)
     b = find(b)
