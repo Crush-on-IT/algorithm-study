@@ -1,4 +1,4 @@
-# Minimum_Spanning_Tree (최소 스패닝 트리)
+# Greedy (탐욕법)
 
 [메인으로 돌아가기](https://github.com/Crush-on-IT/algorithm-study)
 
