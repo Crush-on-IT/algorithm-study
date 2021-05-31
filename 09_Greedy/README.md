@@ -21,7 +21,7 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | <a href="https://www.acmicpc.net/problem/14916" target="_blank">거스름돈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |✅||||
 | 01 | <a href="https://www.acmicpc.net/problem/2217" target="_blank">로프</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |||||
-| 02 | <a href="https://www.acmicpc.net/problem/13305" target="_blank">주유소</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |||||
+| 02 | <a href="https://www.acmicpc.net/problem/13305" target="_blank">주유소</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |||✅||
 | 03 | <a href="https://www.acmicpc.net/problem/1343" target="_blank">폴리오미노</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |||||
 | 04 | <a href="https://www.acmicpc.net/problem/1758" target="_blank">알바생 강호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |||||
 | 05 | <a href="https://www.acmicpc.net/problem/11399" target="_blank">ATM</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
