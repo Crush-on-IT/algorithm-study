@@ -19,7 +19,7 @@
 ## 추천문제
 |          순번          |        문제 이름         |         난이도          | 수민 | 새음 | 석렬 | 지현 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 | <a href="https://www.acmicpc.net/problem/14916" target="_blank">거스름돈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |✅||||
+| 00 | <a href="https://www.acmicpc.net/problem/14916" target="_blank">거스름돈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |✅|||✅|
 | 01 | <a href="https://www.acmicpc.net/problem/2217" target="_blank">로프</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |||||
 | 02 | <a href="https://www.acmicpc.net/problem/13305" target="_blank">주유소</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |||✅||
 | 03 | <a href="https://www.acmicpc.net/problem/1343" target="_blank">폴리오미노</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |||||
@@ -28,7 +28,7 @@
 | 06 | <a href="https://www.acmicpc.net/problem/11508" target="_blank">2+1 세일</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
 | 07 | <a href="https://www.acmicpc.net/problem/20115" target="_blank">에너지 드링크</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
 | 08 | <a href="https://www.acmicpc.net/problem/20300" target="_blank">서강근육맨</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
-| 09 | <a href="https://www.acmicpc.net/problem/1931" target="_blank">회의실 배정</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
+| 09 | <a href="https://www.acmicpc.net/problem/1931" target="_blank">회의실 배정</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||||✅|
 | 10 | <a href="https://www.acmicpc.net/problem/1541" target="_blank">잃어버린 괄호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
 | 11 | <a href="https://www.acmicpc.net/problem/20365" target="_blank">블로그2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
 | 12 | <a href="https://www.acmicpc.net/problem/11047" target="_blank">동전 0</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||

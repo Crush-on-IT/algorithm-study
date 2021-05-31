@@ -1,0 +1,29 @@
+package problems;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class BOJ_14916_거스름돈_oct14jh {
+
+	private static int coin;
+	private static int result;
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		coin = Integer.parseInt(br.readLine());
+		
+		while(coin >= 0) {
+			if(coin % 5 == 0) {
+				System.out.println(result + (coin/5));
+				break;
+			}
+			else {
+				coin -= 2;
+				result++;
+			}
+		}
+		
+		if(coin < 0)
+			System.out.println(-1);
+	}
+}
