@@ -1,6 +1,4 @@
-package com.ssafy.algo.ws;
-
-import java.io.BufferedReader;
+pimport java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
@@ -32,7 +30,7 @@ class comparatorConference implements Comparator<Conference>{
 	}
 }
 
-public class 회의실배정 {
+public class 백준_1931_회의실배정_oct14jh {
 	static int N, cnt=0;
 	static Conference[] parents;
 	static Conference[] conferences;
