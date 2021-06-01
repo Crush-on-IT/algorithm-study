@@ -26,7 +26,7 @@
 | 04 | <a href="https://www.acmicpc.net/problem/1758" target="_blank">알바생 강호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |||||
 | 05 | <a href="https://www.acmicpc.net/problem/11399" target="_blank">ATM</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
 | 06 | <a href="https://www.acmicpc.net/problem/11508" target="_blank">2+1 세일</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
-| 07 | <a href="https://www.acmicpc.net/problem/20115" target="_blank">에너지 드링크</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
+| 07 | <a href="https://www.acmicpc.net/problem/20115" target="_blank">에너지 드링크</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅||||
 | 08 | <a href="https://www.acmicpc.net/problem/20300" target="_blank">서강근육맨</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |||||
 | 09 | <a href="https://www.acmicpc.net/problem/1931" target="_blank">회의실 배정</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||||✅|
 | 10 | <a href="https://www.acmicpc.net/problem/1541" target="_blank">잃어버린 괄호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |||||
