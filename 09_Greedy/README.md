@@ -37,7 +37,7 @@
 | 15 | <a href="https://www.acmicpc.net/problem/16953" target="_blank">A → B</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
 | 16 | <a href="https://www.acmicpc.net/problem/19598" target="_blank">최소 회의실 개수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |✅||||
 | 17 | <a href="https://www.acmicpc.net/problem/21314" target="_blank">민겸 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |||||
-| 18 | <a href="https://www.acmicpc.net/problem/11000" target="_blank">강의실 배정</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||||
+| 18 | <a href="https://www.acmicpc.net/problem/11000" target="_blank">강의실 배정</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||✅||
 | 19 | <a href="https://www.acmicpc.net/problem/2812" target="_blank">크게 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||||
 | 20 | <a href="https://www.acmicpc.net/problem/2212" target="_blank">센서</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||||
 | 21 | <a href="https://www.acmicpc.net/problem/1092" target="_blank">배</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |||||
