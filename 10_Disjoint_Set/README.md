@@ -24,4 +24,4 @@
 | 03 | <a href="https://www.acmicpc.net/problem/16562" target="_blank">친구비</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |||||
 | 04 | <a href="https://www.acmicpc.net/problem/18116" target="_blank">로봇 조립</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |||||
 | 05 | <a href="https://www.acmicpc.net/problem/4195" target="_blank">친구 네트워크</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |||||
-| 06 | <a href="https://www.acmicpc.net/problem/10775" target="_blank">공항</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |||||
+| 06 | <a href="https://www.acmicpc.net/problem/10775" target="_blank">공항</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> ||||✅|
