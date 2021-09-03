@@ -74,7 +74,7 @@
 ### :snail:  알고리즘 유형
 |순번|Tag|태그|문제집|상태|
 |--|--|--|--|--|
-|01|Data Structure|자료구조|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/01_Data_structure/README.md)|☑️|
+|01|Data Structure|자료구조|[문제집](https://github.com/Crush-on-IT/algorithm-study/tree/main/01_Data_Structure/README.md)|☑️|
 |02|Graph Traversal|그래프 탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/02_Graph_Traversal/README.md)|☑️|
 |03|Binary Search|이분탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/03_Binary_Search/README.md)|☑️|
 |04|Backtracking|백트래킹|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/04_Backtracking/README.md)|☑️|
